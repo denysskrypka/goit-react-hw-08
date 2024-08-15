@@ -1,0 +1,19 @@
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  justify-content: center;
+  overflow: auto;
+}
+
+.title {
+  margin-bottom: 10px;
+}

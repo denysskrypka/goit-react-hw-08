@@ -1,0 +1,6 @@
+.contact_list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  max-width: 1280px;
+}
