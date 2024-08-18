@@ -1,0 +1,11 @@
+.container {
+  width: 100%;
+  background-color: rgb(183, 178, 178);
+  padding: 16px 16px;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
